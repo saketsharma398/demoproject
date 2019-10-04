@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/home/stpl/Desktop/saketworkspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1388885180.index
+26782636.index
+2507122010.index
+3300634865.index
+3049355961.index
+2108541838.index
+2172636559.index

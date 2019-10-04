@@ -1,0 +1,19 @@
+package com.test.saket.main;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TestjavaApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(TestjavaApplication.class, args);
+	}
+
+	 @Bean
+	   public RestTemplate getRestTemplate() {
+	      return new RestTemplate();
+	   }
+	}
+	
+}

@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Oct 03 11:58:41 IST 2019
+org.eclipse.jst.jee.server\:testjava=/home/stpl/Videos/spring-tool-suite-3.9.10.RELEASE-e4.13.0-linux-gtk-x86_64/sts-bundle/pivotal-tc-server/instances/base-instance/wtpwebapps/testjava
+org.eclipse.jst.jee.server\:/binary\:/home/stpl/.m2/repository/org/springframework/spring-web/5.1.9.RELEASE/spring-web-5.1.9.RELEASE.jar=/home/stpl/Videos/spring-tool-suite-3.9.10.RELEASE-e4.13.0-linux-gtk-x86_64/sts-bundle/pivotal-tc-server/instances/base-instance/wtpwebapps/testjava/WEB-INF/lib/spring-web-5.1.9.RELEASE.jar
